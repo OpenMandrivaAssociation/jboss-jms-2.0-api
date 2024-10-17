@@ -8,7 +8,7 @@ Release:          0.3%{namedreltag}.1
 Summary:          JBoss JMS API 2.0 Spec
 Group:            Development/Java
 License:          CDDL or GPLv2 with exceptions
-Url:              http://www.jboss.org
+Url:              https://www.jboss.org
 Source0:          https://github.com/jboss/jboss-jms-api_spec/archive/jboss-jms-api_2.0_spec-%{namedversion}.tar.gz
 Source1:          cddl.txt
 
